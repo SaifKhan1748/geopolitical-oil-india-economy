@@ -316,8 +316,3 @@ MIT License — free to use, modify, and share with attribution.
 Built as an end-to-end data science project demonstrating the full pipeline:
 raw data → cleaning → EDA → feature engineering → ML → time series → deployment.
 
-⭐ If you found this useful, please star the repository.
-
----
-
-*Data covers January 2020 – May 2026 | Analysis for educational purposes | Not financial advice*
